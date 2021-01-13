@@ -1,0 +1,6 @@
+C:\Users\1232291\Source\Repos\labo7-3q5-Samuel-Bourque\ADONET_Services\bin\Debug\ADONET_Services.dll
+C:\Users\1232291\Source\Repos\labo7-3q5-Samuel-Bourque\ADONET_Services\bin\Debug\ADONET_Services.pdb
+C:\Users\1232291\Source\Repos\labo7-3q5-Samuel-Bourque\ADONET_Services\obj\Debug\ADONET_Services.csproj.CoreCompileInputs.cache
+C:\Users\1232291\Source\Repos\labo7-3q5-Samuel-Bourque\ADONET_Services\obj\Debug\ADONET_Services.dll
+C:\Users\1232291\Source\Repos\labo7-3q5-Samuel-Bourque\ADONET_Services\obj\Debug\ADONET_Services.pdb
+C:\Users\1232291\Source\Repos\labo7-3q5-Samuel-Bourque\ADONET_Services\obj\Debug\ADONET_Services.csprojAssemblyReference.cache
